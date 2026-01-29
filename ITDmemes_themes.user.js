@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Сменщик тем для сайтов
+// @name         Сменщик тем для ИТД
 // @namespace    localhost
-// @version      3.2
+// @version      1.0
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
